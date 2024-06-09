@@ -1,0 +1,7 @@
+langchain_groq 
+langchain 
+tavily-python 
+replicate 
+langgraph 
+matplotlib
+langchain-community
