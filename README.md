@@ -21,9 +21,10 @@ To run this project, you need the following dependencies:
 
 - Python 3.8+
 - Jupyter Notebook
-- OpenAI's LLaMA-3 API
+- LLaMA-3 Groq API
 - LangGraph
-- Gradio (optional, for an interactive interface)
+- replicate
+- Groq
 
 ## Installation
 Clone the repository and install the required packages
