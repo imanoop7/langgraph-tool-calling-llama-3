@@ -11,9 +11,6 @@ Welcome to the `langgraph-tool-calling-llama-3` repository! This project demonst
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
-- [Disclaimer](#disclaimer)
-- [Links](#links)
-
 ## Overview
 
 The `langgraph-tool-calling-llama-3` project showcases the integration of LLaMA-3 with the LangGraph framework for advanced tool calling capabilities. This project includes an end-to-end demonstration of setting up, configuring, and utilizing a LLaMA-3-based agent for executing various tasks within LangGraph.
